@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis & BI Pipeline (Python)
+# PSL Twitter Sentiment Analysis (Python)
 
 ## 📌 Objective
 
