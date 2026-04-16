@@ -1,11 +1,5 @@
 # PSL Twitter Sentiment Analysis (Python)
 
-## 📌 Objective
-
-Build an end-to-end data pipeline to analyze Twitter data, extract user behavior patterns, and predict tweet sentiment using natural language processing (NLP) and machine learning.
-
----
-
 ## 📊 Dataset
 
 * Source: Twitter Streaming API (PSL Final 2022)
